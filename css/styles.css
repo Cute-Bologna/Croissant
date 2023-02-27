@@ -3,7 +3,7 @@ body {
     margin: 0 auto;
     background-color: lavender;
 }
-  h1 {
+  h1, p {
     text-align: center;
   }
 img {
